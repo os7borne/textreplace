@@ -1,6 +1,8 @@
 # Text Replacer
 
-A simple yet powerful text replacement tool that automatically replaces specified trigger words with custom text as you type. Better yet, this can be installed and used across OS'. 
+A simple yet powerful text replacement tool that automatically replaces specified trigger words with custom text as you type. Better yet, this can be installed and used across Mac, Windows and Linux.
+
+Unfortuantely, there's no UI yet. It's dead simple to use and even has minimal usage stats. 
 
 ## Features
 
@@ -47,7 +49,8 @@ python3 text_replace.py
 
 ```bash
 > add :shrug: ¯\_(ツ)_/¯
-> add :hello: Hello, World!
+> add hw Hello, World!
+> add sig best\nOsborne
 ```
 
 Now when you type `:shrug:` followed by a space or enter in any application, it will automatically be replaced with `¯\_(ツ)_/¯`. 
